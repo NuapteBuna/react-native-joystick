@@ -1,6 +1,6 @@
 {
-  "name": "korol-joystick",
-  "version": "1.7.0",
+  "name": "korol-joystick-custom",
+  "version": "1.7.1",
   "description": "React Native Joystick",
   "license": "MIT",
   "files": [
@@ -8,13 +8,13 @@
   ],
   "types": "lib/index.d.ts",
   "main": "lib/index.js",
-  "homepage": "https://github.com/ionkorol/korol-joystick",
+  "homepage": "https://github.com/NuapteBuna/korol-joystick",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ionkorol/korol-joystick.git"
+    "url": "https://github.com/NuapteBuna/korol-joystick.git"
   },
   "bugs": {
-    "url": "https://github.com/ionkorol/korol-joystick/issues"
+    "url": "https://github.com/NuapteBuna/korol-joystick/issues"
   },
   "author": {
     "email": "ion@korol.dev",
